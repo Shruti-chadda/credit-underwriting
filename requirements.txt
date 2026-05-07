@@ -8,3 +8,4 @@ streamlit>=1.33
 matplotlib>=3.8
 seaborn>=0.13
 kagglehub>=0.2       # optional — for downloading via Kaggle API
+reportlab>=4.0
